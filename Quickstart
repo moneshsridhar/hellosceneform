@@ -1,0 +1,7 @@
+Initial Steps I followed,
+
+* I use Sceneform, a 3D framework to build ARCore apps without OpenGL. 
+* So I download the Sceneform Samples from github releases (https://github.com/google-ar/sceneform-android-sdk/releases).
+* From that, I open the sample project named as 'hellosceneform'.
+* Then I prepare my emulator for supporting the AR.
+* Run the project, I actually works properly.
